@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 894ecfe3ed520c34db1917d0230be15f
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorridorDoor
+    second: {fileID: 2100000, guid: 4432b9ab06475df42a49f32b989a8fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorGlass_material.001
+    second: {fileID: 2100000, guid: f221dfbeb57cc654b80ef9d6da482d74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorGlass_material.002
+    second: {fileID: 2100000, guid: b79fd504b77cca844b231fb374bd4240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_White
+    second: {fileID: 2100000, guid: bb7e45eb86397cc4dbfb9cd9b196ee55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLAInternalDoorHandle
+    second: {fileID: 2100000, guid: 1e7fe767e0c6ee84f9bfda8899338d63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLAInternalDoorHandle.001
+    second: {fileID: 2100000, guid: 35959cc4cf6f06848bf244d807a88c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLAInternalDoorHandle.002
+    second: {fileID: 2100000, guid: d80afe5d75c6e3c4889d1e86e2012afe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Carpet_Grey
+    second: {fileID: 2100000, guid: c7db3eb1317b9614aa127ac1302bab7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Corridor_Ceiling
+    second: {fileID: 2100000, guid: 473b604a9c14da34892020c190082ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_DrainPipePlastic
+    second: {fileID: 2100000, guid: 878177b60175ddd41813bfd6e7f1fe81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_EmergencyDoorFrame
+    second: {fileID: 2100000, guid: 1b8dd357e0e0fb24fbd940445ac3641e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Glass.001
+    second: {fileID: 2100000, guid: 31fa18b45f34eda40a094bd215a72149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_GlassPane
+    second: {fileID: 2100000, guid: c4568f85463186544a207e7e5bb5105a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_InternalRoomDoor
+    second: {fileID: 2100000, guid: 62755fc5ecc44074cb904de6478c65f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Internal_Wall_Blue
+    second: {fileID: 2100000, guid: 12bfbbd6b3e37ba458dfa88654125c15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Metal Grey
+    second: {fileID: 2100000, guid: f5bf226ec62f246469e3ed6fd9113857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_PavementSqres
+    second: {fileID: 2100000, guid: cd72a1553dde5394295c785d66a4fad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Roof
+    second: {fileID: 2100000, guid: 63bd21cbfdb0d71459dd6dadbc1cb4a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_SilverMetal
+    second: {fileID: 2100000, guid: bea8896c520aa4442a5d7bf2baa0aa9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Wall_DarkSlates
+    second: {fileID: 2100000, guid: 80c75ce7a4137cc4d81ea9774ed96210, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Wall_External
+    second: {fileID: 2100000, guid: 774585e86477a0740be8e76b12e6a823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_Wall_Internal
+    second: {fileID: 2100000, guid: 8ed69c9b3dd563b48aa594272c0fe4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_WhiteMetal
+    second: {fileID: 2100000, guid: 5f7e2338a419a0843bc1b487aedbc525, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_WinFrame
+    second: {fileID: 2100000, guid: c9787e7c05dc9ce4eabf64323e8e8ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_WinFrame.001
+    second: {fileID: 2100000, guid: 553ac6f2d9160134fac921a06b9cbade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_WinFrame.003
+    second: {fileID: 2100000, guid: 6a51d48198c97b2478079c1e7f320938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SLA_door_single_mat
+    second: {fileID: 2100000, guid: b424358db0bed454e9b23062b2bba401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_mat
+    second: {fileID: 2100000, guid: cb67e4ef0c7e95043b6ae525eb77831b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: props_mat
+    second: {fileID: 2100000, guid: 286eb18ffc0ddd34d80ea73088360502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_frame_mat
+    second: {fileID: 2100000, guid: 70962edc356b12d40be1ac0d8469b2c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_mat
+    second: {fileID: 2100000, guid: 30cdf37f36479c74e8ed8f4113959054, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
